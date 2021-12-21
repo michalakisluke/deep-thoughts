@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import NoMatch from './pages/NoMatch';
 import SingleThought from './pages/SingleThought';
-import Profile from './pages/SingleThought';
+import Profile from './pages/Profile';
 import Signup from './pages/Signup';
 
 import { ApolloProvider, ApolloClient, InMemoryCache, createHttpLink } from '@apollo/client';
